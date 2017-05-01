@@ -1,0 +1,9 @@
+#intelliJ
+*.idea
+*.iml
+out/
+
+#learnJava project
+resource/
+db/
+*.db
